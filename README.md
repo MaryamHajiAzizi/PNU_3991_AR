@@ -140,3 +140,9 @@
 </table>
 
 --------------
+-[github](https://github.com/MaryamHajiAzizi/)
+-[PNU_3991_AR](https://github.com/MaryamHajiAzizi/PNU_3991_AR)
+-[resume](https://MaryamHajiAzizi.github.io/)
+-[SOP](https://MaryamHajiAzizi.github.io/SOP/)
+-[javascript Certificate](JS.jpg)
+-[jlord patchwork](jlord.png)

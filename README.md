@@ -4,7 +4,7 @@
 - [PNU_3991_AR](https://github.com/MaryamHajiAzizi/PNU_3991_AR)
 - [resume]()
 - [SOP]() 
-- [javascript Certificate](JS.jpg)
+- [javascript Certificate](Java.pdf)
 - [jlord patchwork]()
 --------------
 ### مریم حاجی عزیزی

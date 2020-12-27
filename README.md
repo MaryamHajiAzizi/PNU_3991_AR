@@ -5,7 +5,7 @@
 - [resume](https://maryamhajiazizi.github.io/)
 - [SOP](https://maryamhajiazizi.github.io/SOP/) 
 - [javascript Certificate](Java.pdf)
-- [jlord patchwork]()
+- [jlord patchwork](jlord.png)
 --------------
 ### مریم حاجی عزیزی
 ## روز و ساعت ارائه دروس

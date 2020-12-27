@@ -3,7 +3,7 @@
 - [github](https://github.com/MaryamHajiAzizi/)
 - [PNU_3991_AR](https://github.com/MaryamHajiAzizi/PNU_3991_AR)
 - [resume](https://maryamhajiazizi.github.io/)
-- [SOP]() 
+- [SOP](https://maryamhajiazizi.github.io/SOP/) 
 - [javascript Certificate](Java.pdf)
 - [jlord patchwork]()
 --------------
